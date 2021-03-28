@@ -1,0 +1,20 @@
+.sing-up {
+    border-top: 1px solid gray;
+    border-right: 1px solid gray;
+    padding-right: 5px;
+}
+.social-button {
+    padding: 10px 20px;
+    margin: 20px 0;
+    border: none;
+    border-radius: 10px;
+    background-color: tomato;
+    color: white;
+}
+.social-button:hover{
+    padding: 15px 25px;
+    transition: .3s all linear;
+}
+.sign-up-social{
+    border-top: 1px solid gray;
+}
